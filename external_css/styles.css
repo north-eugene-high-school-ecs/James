@@ -1,0 +1,23 @@
+h1 {
+  color: green;
+  font-family: palatino
+}
+
+p {
+  font-family: arial;
+}
+
+h2 {
+  font-family: courier;
+  color: pink;
+}
+img {
+  margin: 15px;
+  border-style: dashed;
+  border-width: 5px;
+  border-color: blue;
+}
+p.fancy {
+  border-color: orange;
+  border-style: solid;
+}
